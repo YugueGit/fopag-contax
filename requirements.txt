@@ -1,8 +1,2 @@
-# 1. Cria a nova pasta chamada 'PROJETO_STREAMLIT'
-mkdir PROJETO_STREAMLIT
-
-# 2. Entra na pasta nova
-cd PROJETO_STREAMLIT
-
-streamlit 
+streamlit
 pandas
