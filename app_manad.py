@@ -123,4 +123,3 @@ if arquivos_enviados:
                     file_name="FOPAG_CONTAX_BI.csv",
                     mime="text/csv"
                 )
-                
